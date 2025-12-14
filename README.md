@@ -83,5 +83,4 @@ This project demonstrates a complete data analytics pipeline using Python, SQL, 
 
 ## 👤 Author
 **Lakshya Shree Hariharan**  
-Computer Science & Business Systems  
 
